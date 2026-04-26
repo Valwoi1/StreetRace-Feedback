@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Allgemeine Frage / Diskussion
+    url: https://github.com/Valwoi1/StreetRace-Feedback/discussions
+    about: Für offene Fragen, Ideen ohne klares Ticket oder allgemeine Diskussionen.
